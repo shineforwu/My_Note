@@ -1,6 +1,6 @@
 <!-- vscode  shift+ctrl+v 预览 -->
 # blender 学习笔记
-## 插件从C盘移动到其他路径
+##  插件从C盘移动到其他路径
 - 添加一个文件夹 如`D:\Develop_Tool\Blender\Plugin\addones` 用于存放插件的路径
 - 在blender 中 菜单栏  编辑-》 偏好设置-》 文件路径 中 把 上诉的文件路径复制进去
 
