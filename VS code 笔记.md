@@ -1,4 +1,4 @@
-<!-- Shift + Alt + A -->
+<!-- vscode  shift+ctrl+v 预览 -->
 # VS code 笔记
 
 ## 插件从C盘移动到其他路径
